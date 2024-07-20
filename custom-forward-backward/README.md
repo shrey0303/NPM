@@ -1,6 +1,6 @@
 # custom-forward-backward
 
-`custom_hook_ back-forward_options` is a custom React hook that provides functionality for navigating back and forward through options. It takes an array of options and returns an object with methods and data to manage the navigation.
+`custom-forward-backward` is a custom React hook that provides functionality for navigating back and forward through options. It takes an array of options and returns an object with methods and data to manage the navigation.
 
 By default, the hook sets the currently selected option to be the last item in the provided array of options. This allows you to start with the last option as the initial state. However, you can customize the starting point of navigation by providing the defaultIndex parameter when using the hook.
 
