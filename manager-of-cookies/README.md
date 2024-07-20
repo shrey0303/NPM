@@ -1,4 +1,4 @@
-# What is this?
+# Manager-of-Cookies
 An object containing four methods for managing cookies. The main methods set and get. And the secondary methods check and destroy.
 
 ## Installation
