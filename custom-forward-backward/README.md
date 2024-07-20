@@ -1,4 +1,4 @@
-# custom_hook_ back-forward_options
+# custom-forward-backward
 
 `custom_hook_ back-forward_options` is a custom React hook that provides functionality for navigating back and forward through options. It takes an array of options and returns an object with methods and data to manage the navigation.
 
