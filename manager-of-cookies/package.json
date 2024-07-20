@@ -1,0 +1,27 @@
+{
+  "name": "manager-of-cookies",
+  "version": "1.2.2",
+  "description": "A collection for managing cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilEinarsen/bjork_cookie.git"
+  },
+  "keywords": [
+	"Cookie",
+	"Cookies",
+	"getCookie",
+	"setCookie",
+	"checkCookie",
+	"destroyCookie"
+  ],
+  "author": "Emil O. Einarsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmilEinarsen/bjork_cookie/issues"
+  },
+  "homepage": "https://github.com/EmilEinarsen/bjork_cookie#readme"
+}
